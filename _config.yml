@@ -1,9 +1,9 @@
-public:
+public: False
 type: "docs"
 category:
-tags:
+tags: Policy
 
-title:
+title: archival description licence
 description:
 pages:
   - ["Documentation Title", "index"]
