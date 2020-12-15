@@ -1,4 +1,7 @@
-Licensing for our archival description
+---
+layout: docs
+title:  "Licensing for Archival Description"
+---
 
 Information about our collections on this website, which we refer to as archival
 description, is licensed under a Creative Commons Zero (CC0) dedication. This
