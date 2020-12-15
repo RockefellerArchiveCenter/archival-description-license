@@ -12,7 +12,7 @@ website](http://creativecommons.org/publicdomain/zero/1.0/). If you have
 questions, please [contact
 us](mailto:archive@rockarch.org?Subject=DIMES%20Metadata%20Licensing).
 
-**This license includes**
+## This license includes
 
 -   Data about archival collections.
 
@@ -22,13 +22,13 @@ us](mailto:archive@rockarch.org?Subject=DIMES%20Metadata%20Licensing).
 -   Both the HTML representation of this data as well as the underlying JSON are
     released under a CC0 license.
 
-**This license does not include**
+## This license does not include
 
 -   Any images, documents, or other digital content linked to this description.
 
 -   Any data from other sources, such as Wikidata or Wikipedia.
 
-**What can you do with our data**
+## What can you do with our data
 
 Anything! Please use this data for your own research or projects. We would love
 to be surprised by what you create. If you build or discover something
