@@ -1,4 +1,4 @@
-# Description of Documentation
+# Licensing for Archival Description
 This document introduces the reader to the "archival description" on the website which is licensed under a Creative Commons Zero (CC0) dedication. It details what the license does and does not cover as well as guidelines for using RAC data.
 
 ## Accessing the documentation
