@@ -1,9 +1,10 @@
-public
+public: true
 type: "docs"
-category:
+category: 
+- "collection development and management"
 tags:
-
-title:
-description:
+    - "policy"
+title: "Licensing for Archival Description"
+description: "License for the use of the Rockefeller Archive Center’s archival description."
 pages:
-  - ["Documentation Title", "index"]
+  - ["Licensing for Archival Description", "index"]
